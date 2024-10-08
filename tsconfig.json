@@ -35,8 +35,8 @@
     "next-env.d.ts",
     ".next/types/**/*.ts",
     "**/*.ts",
-    "**/*.tsx",
-    "lib/dbConnect.ts", "app/(app)/[user]/page.tsx", "components/PostFeed.tsx", "app/api/users/posts/route.ts", "lib/firebaseAdmin.ts", "app/(app)/company/page.jsx"],
+    "**/*.tsx"
+],
   "exclude": [
     "node_modules"
   ]

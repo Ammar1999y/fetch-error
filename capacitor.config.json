@@ -1,5 +1,10 @@
 {
-  "appId": "app.vercel.dawayiy",
-  "appName": "dawayiy",
-  "webDir": "out"
+  "appId": "test.test.test",
+  "appName": "test",
+  "webDir": "out",
+  "plugins": {
+    "CapacitorHttp": {
+      "enabled": true
+    }
+  }
 }
